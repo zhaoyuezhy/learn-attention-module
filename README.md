@@ -1,4 +1,4 @@
 # learn-attention-module
 ---
--SENet
--CBAM
+- SENet
+- CBAM
